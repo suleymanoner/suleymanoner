@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Suleyman Oner
+#### Mobile Developer
+![Mobile Developer](https://c.tenor.com/l53qv3b1lhoAAAAd/silicon-valley-locked.gif)
 
-<!--
-**suleymanoner/suleymanoner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Suleyman and I have a great passion about software development and learning every stage of development process. I want to improve my skills particularly in Mobile Development and be a part of a team developing cutting-edge mobile applications.
 
-Here are some ideas to get you started:
+Skills: Java / Kotlin / React-Native / JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Mobile apps. 
+- 🌱 I’m currently learning React-Native 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suleymanoner/)  
+
+
