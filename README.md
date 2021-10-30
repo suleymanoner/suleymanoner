@@ -1,4 +1,4 @@
-### Hi there 👋, Suleyman Oner
+### Hi there 👋, I am Suleyman Oner
 #### Mobile Developer
 ![Mobile Developer](https://c.tenor.com/l53qv3b1lhoAAAAd/silicon-valley-locked.gif)
 
