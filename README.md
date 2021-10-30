@@ -9,6 +9,6 @@ Skills: Java / Kotlin / React-Native / JS
 - 🔭 I’m currently working on Mobile apps. 
 - 🌱 I’m currently learning React-Native 
 
-[![Spotify](https://suleymanoner.vercel.app/api/spotify)](https://open.spotify.com/user/qzwouju6lccb1ve54r3wq8hgu)
+[![Spotify](https://novatorem-a1gsxc0op-suleymanoner.vercel.app/api/spotify)](https://open.spotify.com/user/qzwouju6lccb1ve54r3wq8hgu)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suleymanoner/)  
