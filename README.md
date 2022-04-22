@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Suleyman Oner</h1>
-<h3 align="center">Mobile Developer</h3>
+<h1 align="left">Hi 👋, I'm Suleyman Oner</h1>
+<h3 align="left">Mobile Developer</h3>
 
 ![Mobile Developer](https://c.tenor.com/l53qv3b1lhoAAAAd/silicon-valley-locked.gif)
 
