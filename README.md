@@ -5,8 +5,6 @@
 
 I have a great passion about software development and learning every stage of development process. I want to improve my skills particularly in Mobile Development and be a part of a team developing cutting-edge mobile applications.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suleymanoner&label=Profile%20views&color=0e75b6&style=flat" alt="suleymanoner" /> </p>
-
 - 🔭 I’m currently working on [Quotes Application](https://github.com/suleymanoner/quotes-mobile)
 
 - 🌱 I’m currently learning **React Native, TypeScript**
