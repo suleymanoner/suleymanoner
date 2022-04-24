@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Suleyman Oner</h1>
-<h3 align="left">Mobile Developer</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+&color=11C321&lines=The+Matrix+has+you+...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+&color=11C321&lines=Mobile+Developer+...)](https://git.io/typing-svg)
 ![Mobile Developer](https://c.tenor.com/l53qv3b1lhoAAAAd/silicon-valley-locked.gif)
 
 I have a great passion about software development and learning every stage of development process. I want to improve my skills particularly in Mobile Development and be a part of a team developing cutting-edge mobile applications.
