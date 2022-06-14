@@ -9,8 +9,6 @@ I have a great passion about software development and learning every stage of de
 
 - 🌱 I’m currently learning **React Native, TypeScript**
 
-- ⚡ Fun fact **I don't like HTML :/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bosnak111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bosnak111" height="30" width="40" /></a>
