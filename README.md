@@ -5,7 +5,7 @@
 
 I have a great passion about software development and learning every stage of development process. I want to improve my skills particularly in Mobile Development and be a part of a team developing cutting-edge mobile applications.
 
-- 🔭 I’m currently working on [Quotes Application](https://github.com/suleymanoner/quotes-mobile)
+- 🔭 I’m currently working on [Movie Bank Application](https://github.com/suleymanoner/MovieBank)
 
 - 🌱 I’m currently learning **React Native, TypeScript**
 
