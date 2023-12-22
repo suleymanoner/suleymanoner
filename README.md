@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Suleyman Oner</h1>
+<h1 align="left">Hi 👋, I'm Suleyman</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+&color=11C321&lines=Mobile+Developer+...)](https://git.io/typing-svg)
 ![Mobile Developer](https://c.tenor.com/l53qv3b1lhoAAAAd/silicon-valley-locked.gif)
