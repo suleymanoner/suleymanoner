@@ -5,13 +5,10 @@
 
 I have a great passion about software development and learning every stage of development process. I want to improve my skills particularly in Mobile Development and be a part of a team developing cutting-edge mobile applications.
 
-- 🔭 I’m currently working on [Movie Bank Application](https://github.com/suleymanoner/MovieBank)
-
-- 🌱 I’m currently learning **React Native, TypeScript**
+- 🌱 I’m currently learning **Flutter, Dart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bosnak111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bosnak111" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suleymanoner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suleymanoner" height="30" width="40" /></a>
 </p>
 
