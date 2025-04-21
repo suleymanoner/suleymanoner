@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Suleyman</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+&color=11C321&lines=Mobile+Developer+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&weight=700&pause=1000&color=11C321&width=435&lines=Software+Engineer+...)](https://git.io/typing-svg)
 ![Software Engineer](https://c.tenor.com/l53qv3b1lhoAAAAd/silicon-valley-locked.gif)
 
 I have a great passion about software development and learning every stage of development process. I want to improve my skills and be a part of a team developing cutting-edge applications.
