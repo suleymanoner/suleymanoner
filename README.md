@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Suleyman</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+&color=11C321&lines=Mobile+Developer+...)](https://git.io/typing-svg)
-![Mobile Developer](https://c.tenor.com/l53qv3b1lhoAAAAd/silicon-valley-locked.gif)
+![Software Engineer](https://c.tenor.com/l53qv3b1lhoAAAAd/silicon-valley-locked.gif)
 
-I have a great passion about software development and learning every stage of development process. I want to improve my skills particularly in Mobile Development and be a part of a team developing cutting-edge mobile applications.
+I have a great passion about software development and learning every stage of development process. I want to improve my skills and be a part of a team developing cutting-edge applications.
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **NextJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
